@@ -1,8 +1,8 @@
 {
- "version": "1.0.4",
- "url": "EduNest_update_1.0.4.zip",
- "sha256": "255f4f88916e53d38e633a205457cb97185709b8027894adbda35e1bc1fb763c",
- "size": 5731205,
- "notes": "Certificates now fit A4 exactly, school logo/motto/name on printed documents, auto-update",
- "sig": "6Dm-mhbycTWVpovcNatmLG4mrB2Oe4WjHVzKD6UYbehzwr-INXcDwKghFZD8gjI2SgCQYb5kgrmF8_nWhKHcAA"
+ "version": "1.0.7",
+ "url": "EduNest_update_1.0.7.zip",
+ "sha256": "e9dfe5c3ded5e3f538cbef4264f5bbf7a5d3df43923dc04dfe949c677c65fbe5",
+ "size": 1733205,
+ "notes": "Faster on slow WiFi, left-school students option, full caste names, report card background upload, help as HTML",
+ "sig": "z772ttRgDOFK_4aXOCLp5uVDeY2dezqIy5gGSrTReNK8vqhROXJD8BTt7HJZsmM87NzWfGtsWUu61wG_d54CAA"
 }
