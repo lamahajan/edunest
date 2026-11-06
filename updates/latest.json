@@ -1,8 +1,8 @@
 {
- "version": "1.0.7",
- "url": "EduNest_update_1.0.7.zip",
- "sha256": "e9dfe5c3ded5e3f538cbef4264f5bbf7a5d3df43923dc04dfe949c677c65fbe5",
- "size": 1733205,
- "notes": "Faster on slow WiFi, left-school students option, full caste names, report card background upload, help as HTML",
- "sig": "z772ttRgDOFK_4aXOCLp5uVDeY2dezqIy5gGSrTReNK8vqhROXJD8BTt7HJZsmM87NzWfGtsWUu61wG_d54CAA"
+ "version": "1.0.9",
+ "url": "EduNest_update_1.0.9.zip",
+ "sha256": "dbb33f8ff455e7b35445dec7cec32cd3039f1ae1a5b9582cd46d140a2d0a3afa",
+ "size": 1742326,
+ "notes": "Few Updates",
+ "sig": "2dyL0qz-FbDLVa5hd4A7EZ7SDThsMCv1kPb_v_XldUDMCO0-wKn0gAPWEQSRQlw2668_7fuBVdVyVLkDB-9HAg"
 }
